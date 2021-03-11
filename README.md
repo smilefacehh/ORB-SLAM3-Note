@@ -1,5 +1,9 @@
 # ORB-SLAM3-Note
-ORB-SLAM3源码注释
+ORB-SLAM3源码注释，注释了大部分代码。
+
+整理总结了视觉SLAM中的重要知识点，给出理论推导。如果有理解上的错误，请您指正。
+
+:) 如果对您有帮助，帮我点个star呦~
 
 ## 目录
 - [ORB-SLAM3知识点(一)：词袋模型BoW](https://zhuanlan.zhihu.com/p/354616831)
@@ -10,3 +14,4 @@ ORB-SLAM3源码注释
 - ORB-SLAM3知识点(六)：BA优化、Jacobian
 - ORB-SLAM3知识点(七)：...
 
+可以到知乎上查看详细内容~
